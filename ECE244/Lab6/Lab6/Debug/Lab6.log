@@ -1,0 +1,7 @@
+﻿  Polygon.cpp
+c:\dev\ece244\lab6\lab6\polygon.cpp(65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\dev\ece244\lab6\lab6\polygon.cpp(73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\dev\ece244\lab6\lab6\polygon.cpp(76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  Lab6.vcxproj -> C:\Dev\ECE244\Lab6\Debug\Lab6.exe
